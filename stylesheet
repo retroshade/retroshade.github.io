@@ -1,0 +1,8 @@
+/*retroshade.gihub.io stylesheet*/			
+	body {
+		font-family: sans-serif;
+	}
+	.intro {
+		width: 70%;
+		margin-left: 12px;
+	}
