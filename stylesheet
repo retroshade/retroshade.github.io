@@ -1,8 +1,16 @@
 /*retroshade.gihub.io stylesheet*/			
-	body {
-		font-family: sans-serif;
-	}
-	.intro {
-		width: 70%;
-		margin-left: 12px;
-	}
+body {
+	font-family: sans-serif;
+	background-color: rgb(196, 196, 196);
+}
+
+.intro {
+	width: 70%;
+	margin-left: 12px;
+}
+
+#intro {
+	border-style: groove;
+	border-color: black;
+	border-width: 2px;
+}
